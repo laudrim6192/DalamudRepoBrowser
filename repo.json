@@ -17,11 +17,11 @@
     "ImageUrls": [
       ""
     ],
-    "DownloadLinkInstall": "https://github.com/laudrim6192/DalamudPluginRepo/raw/master/latest.zip",
+    "DownloadLinkInstall": "https://github.com/laudrim6192/DalamudRepoBrowser/raw/master/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/laudrim6192/DalamudPluginRepo/raw/master/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/laudrim6192/DalamudPluginRepo/raw/master/latest.zip",
+    "DownloadLinkTesting": "https://github.com/laudrim6192/DalamudRepoBrowser/raw/master/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/laudrim6192/DalamudRepoBrowser/raw/master/latest.zip",
     "DownloadCount": 0,
     "LastUpdate": "1661476171"
   }
