@@ -1,4 +1,5 @@
-{
+[
+  {
     "Author": "UnknownX",
     "Name": "DalamudRepoBrowser",
     "Punchline": "Browse and add third party repositories in an instant",
@@ -9,12 +10,12 @@
     "RepoUrl": "https://github.com/laudrim6192/DalamudPluginRepo",
     "ApplicableVersion": "any",
     "CategoryTags": [
-        "other"
+      "other"
     ],
     "DalamudApiLevel": 7,
     "IconUrl": "",
     "ImageUrls": [
-        ""
+      ""
     ],
     "DownloadLinkInstall": "https://github.com/laudrim6192/DalamudPluginRepo/raw/master/latest.zip",
     "IsHide": false,
@@ -23,4 +24,5 @@
     "DownloadLinkUpdate": "https://github.com/laudrim6192/DalamudPluginRepo/raw/master/latest.zip",
     "DownloadCount": 0,
     "LastUpdate": "1661476171"
-}
+  }
+]
