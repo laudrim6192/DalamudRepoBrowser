@@ -14,7 +14,7 @@
   "InternalName": "DalamudRepoBrowser",
   "AssemblyVersion": "",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 6,
+  "DalamudApiLevel": 7,
   "LoadPriority": 0,
   "Changelog": ""
 }
